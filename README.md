@@ -15,7 +15,8 @@ This project analyzes demographic and performance profiles of branch leaders
 - Dashboard development
 
 ## Output
-Interactive dashboard available in this repository (.html file).
+Interactive dashboard:
+[View Dashboard](./Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html) 
 
 ## Key Insights
 - Workforce demographic patterns identified across branches
