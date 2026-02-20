@@ -16,7 +16,7 @@ This project analyzes demographic and performance profiles of branch leaders
 
 ## Output
 Interactive dashboard:
-[View Dashboard](./Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html) 
+[View Dashboard]([./Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html](https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Selindo/Profil_Demografi_Kinerja_PINCA_MultiKategori.html))
 
 ## Key Insights
 - Workforce demographic patterns identified across branches
