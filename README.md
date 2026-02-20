@@ -24,40 +24,79 @@ https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Seli
 
 ---
 
-# Workforce Demographic & Performance Analysis – PINCAPEM
+# 📊 Workforce Demographic & Performance Analysis – BRI (PINCAPEM)
 
-## Project Overview
-This project analyzes demographic characteristics and performance profiles of Sub-Branch Leaders (Pincapem) at PT Bank Rakyat Indonesia to support workforce planning and managerial decision-making.
-
-The analysis focuses on identifying workforce distribution patterns, demographic composition, and performance insights through interactive data visualization.
-
-## Objectives
-- Analyze demographic composition of Pincapem leaders
-- Identify workforce distribution patterns
-- Support data-driven HR and operational decisions
-- Present insights through an interactive dashboard
-
-## Tools & Technologies
-- Python (Pandas, Plotly)
-- Jupyter Notebook
-- Data Cleaning & Preprocessing
-- Interactive Data Visualization
-
-## My Responsibilities
-- Performed data cleaning and preprocessing
-- Conducted demographic and performance analysis
-- Developed interactive dashboards using Plotly
-- Generated visual insights for organizational profiling
-
-## Interactive Dashboard
-https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Selindo/Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html
-
-## Key Insights
-- Workforce demographic distribution varies across regions
-- Leadership composition shows identifiable demographic trends
-- Visualization enables easier interpretation for managerial evaluation
-
-## Project Output
-Interactive dashboard presenting multi-category demographic analysis of Pincapem leaders.
+## 🧩 Business Problem
+Branch leadership workforce data was not easily interpretable for strategic decision-making due to fragmented demographic and performance information.  
+This project aims to transform raw workforce data into interactive visual insights to support managerial evaluation and workforce planning.
 
 ---
+
+## 🎯 Project Objectives
+- Analyze demographic composition of PINCAPEM leaders
+- Identify workforce distribution patterns
+- Provide data-driven insights for HR and operational strategy
+- Build an interactive dashboard for decision support
+
+---
+
+## 📁 Dataset
+The dataset contains organizational workforce information including:
+- Demographic attributes
+- Position classification
+- Workforce distribution indicators
+- Performance-related variables
+
+*(Data anonymized for confidentiality purposes.)*
+
+---
+
+## ⚙️ Tools & Technologies
+- **Python** (Pandas, NumPy)
+- **Plotly** – Interactive Visualization
+- **Jupyter Notebook**
+- **Microsoft Excel**
+
+---
+
+## 🔎 Data Analysis Process
+1. Data Cleaning & Preprocessing  
+2. Feature Categorization  
+3. Demographic Analysis  
+4. Visualization Development  
+5. Dashboard Deployment
+
+---
+
+## 📈 Interactive Dashboard
+👉 **Live Dashboard:**  
+https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Selindo/Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html
+
+---
+
+## 💡 Key Insights
+- Workforce demographic composition varies across organizational units.
+- Leadership distribution highlights identifiable structural patterns.
+- Interactive visualization improves interpretability for managerial review.
+
+---
+
+## 👩‍💻 My Role
+As a Data Analytics Intern, I:
+- Cleaned and prepared workforce datasets
+- Conducted demographic analysis
+- Developed interactive dashboards using Plotly
+- Communicated analytical insights through visualization
+
+---
+
+## 🚀 Business Impact
+This dashboard enables stakeholders to:
+- Quickly understand workforce composition
+- Support evidence-based decision-making
+- Improve organizational profiling efficiency
+
+---
+
+## 📌 Project Status
+✅ Completed — Portfolio Project based on real internship experience at PT Bank Rakyat Indonesia.
