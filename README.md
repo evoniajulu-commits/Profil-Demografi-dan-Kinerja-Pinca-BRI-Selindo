@@ -24,15 +24,15 @@ https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Seli
 
 ---
 
-# 📊 Workforce Demographic & Performance Analysis – BRI (PINCAPEM)
+# Workforce Demographic & Performance Analysis – BRI (PINCAPEM)
 
-## 🧩 Business Problem
+## Business Problem
 Branch leadership workforce data was not easily interpretable for strategic decision-making due to fragmented demographic and performance information.  
 This project aims to transform raw workforce data into interactive visual insights to support managerial evaluation and workforce planning.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Analyze demographic composition of PINCAPEM leaders
 - Identify workforce distribution patterns
 - Provide data-driven insights for HR and operational strategy
@@ -40,7 +40,7 @@ This project aims to transform raw workforce data into interactive visual insigh
 
 ---
 
-## 📁 Dataset
+## Dataset
 The dataset contains organizational workforce information including:
 - Demographic attributes
 - Position classification
@@ -51,7 +51,7 @@ The dataset contains organizational workforce information including:
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - **Python** (Pandas, NumPy)
 - **Plotly** – Interactive Visualization
 - **Jupyter Notebook**
@@ -59,7 +59,7 @@ The dataset contains organizational workforce information including:
 
 ---
 
-## 🔎 Data Analysis Process
+## Data Analysis Process
 1. Data Cleaning & Preprocessing  
 2. Feature Categorization  
 3. Demographic Analysis  
@@ -68,20 +68,20 @@ The dataset contains organizational workforce information including:
 
 ---
 
-## 📈 Interactive Dashboard
+## Interactive Dashboard
 👉 **Live Dashboard:**  
 https://evoniajulu-commits.github.io/Profil-Demografi-dan-Kinerja-Pinca-BRI-Selindo/Profil_Demografi_Kinerja_PINCAPEM_MultiKategori.html
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Workforce demographic composition varies across organizational units.
 - Leadership distribution highlights identifiable structural patterns.
 - Interactive visualization improves interpretability for managerial review.
 
 ---
 
-## 👩‍💻 My Role
+## My Role
 As a Data Analytics Intern, I:
 - Cleaned and prepared workforce datasets
 - Conducted demographic analysis
@@ -90,7 +90,7 @@ As a Data Analytics Intern, I:
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 This dashboard enables stakeholders to:
 - Quickly understand workforce composition
 - Support evidence-based decision-making
